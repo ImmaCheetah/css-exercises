@@ -1,6 +1,4 @@
-.first,
-.third,
-.fifth {
+.odd {
     background-color: pink;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -10,7 +8,7 @@
     font-size: 36px;
 }
 
-.third {
+.diff-size {
     font-size: 24px;
 }
 
