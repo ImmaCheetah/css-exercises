@@ -8,7 +8,6 @@ img {
 }
 
 
-
 .title {
   font-size: 36px;
   font-weight: 900;
@@ -20,10 +19,16 @@ img {
   display: flex;
   justify-content: center;
   gap: 52px;
+  text-align: center;
 }
 
+/* .text {
+  text-align: center;
+} */
+
 .pics {
-  width: 200px
+  width: 200px;
+  
 }
 
 
