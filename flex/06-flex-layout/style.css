@@ -34,6 +34,10 @@ a:link {
   text-decoration: none;
 }
 
+div, ul {
+  border: 1px solid gray;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
