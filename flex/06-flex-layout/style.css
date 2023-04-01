@@ -58,6 +58,8 @@ div, ul {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  background-color: lightgray;
+  color: gray;
 }
 
 .footer > ul {
