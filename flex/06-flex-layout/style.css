@@ -59,3 +59,8 @@ div, ul {
   gap: 8px;
   margin-right: 25px;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
