@@ -5,6 +5,9 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 img {
@@ -52,12 +55,14 @@ div, ul {
 .footer {
   display: flex;
   justify-content: space-between;
+  align-items: flex-end;
 }
 
 .footer > ul {
   display: flex;
   gap: 8px;
   margin-right: 25px;
+  
 }
 
 .content {
