@@ -15,11 +15,31 @@ body {
   justify-content: center;
 }
 
+div {
+  /* border: 1px solid lightcoral; */
+  padding: 3px;
+}
+
+.header {
+  font-size: 18px;
+  font-weight: bold;
+}
+
 .modal {
   background: white;
   width: 480px;
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
+  display: flex;
+}
+
+.modal2 {
+  display: flex;
+  flex-direction: column;
+}
+
+.right, .left {
+  gap: 8px;
 }
 
 .icon {
