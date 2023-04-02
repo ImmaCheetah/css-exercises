@@ -34,5 +34,9 @@ body {
   border-radius: 4px;
   width: 300px;
   height: 300px;
-  
+}
+
+.midcontent {
+  display: flex;
+  gap: 35px;
 }
