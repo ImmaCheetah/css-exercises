@@ -6,7 +6,10 @@ body {
   flex-direction: column;
 }
 
-
+a, li {
+  text-decoration: none;
+  color: white;
+}
 
 .header {
   height: 72px;
