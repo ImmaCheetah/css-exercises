@@ -16,6 +16,10 @@ ul {
   padding-left: 15px;
 }
 
+li {
+  padding-bottom: 25px;
+}
+
 .header {
   height: 72px;
   background: darkmagenta;
